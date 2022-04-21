@@ -1,0 +1,26 @@
+{
+  "name": "camaiotmap",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prod": "build export"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "geojson": "^0.5.0",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "leaflet-geosearch": "^3.1.0",
+    "next": "^10.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^16.14.0",
+    "react-icons": "^3.11.0",
+    "react-leaflet": "^3.0.2",
+    "sass": "^1.29.0"
+  },
+  "keywords": [],
+  "description": ""
+}
